@@ -2,8 +2,8 @@
 #include <cmath>
 #include "Image.h"
 #include "iostream"
-#include "225/PNG.h"
-#include "225/HSLAPixel.h"
+#include "PNG_reader/PNG.h"
+#include "PNG_reader/HSLAPixel.h"
 
 using namespace std;
 using namespace im;

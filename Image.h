@@ -3,8 +3,8 @@
 #include <string>
 #include <iostream>
 #include <cmath>
-#include "225/PNG.h"
-#include "225/HSLAPixel.h"
+#include "PNG_reader/PNG.h"
+#include "PNG_reader/HSLAPixel.h"
 
 using namespace std;
 using namespace im;
